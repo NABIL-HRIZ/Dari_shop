@@ -1,0 +1,1 @@
+<img src="{{asset('/logo/shopping.png')}}" alt="" style="width:100px">
